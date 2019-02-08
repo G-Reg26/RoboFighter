@@ -17,7 +17,7 @@ and cartoonish over the top gameplay.
 A - Move left<br/>
 D - Move right<br/>
 Space - Jump<br/>
-J - Attack
+J - Attack<br/>
 L - Grab/Throw
 # Project Status
 Basic player movement, basic combat, basic enemy AI.
