@@ -19,5 +19,5 @@ L - Grab/Throw
 Basic player movement, basic combat, basic enemy AI.
 # Credits
 Scripts in the Scripts folder, and art and animations created by Gregorio Lozada<br/>
-Unity GitHub plugin provided by https://unity.github.com/
+Unity GitHub plugin provided by https://unity.github.com/<br/>
 No license
