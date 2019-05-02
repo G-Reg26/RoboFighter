@@ -8,7 +8,7 @@ and cartoonish over the top gameplay.
   - Download the .zip file and extract it
   - Open extracted folder through Unity
 - If you just want to play the game:
-  - Go to: [RoboFighter Web Page]https://g-reg26.github.io/RoboFighterPage/
+  - Go to: [RoboFighter Web Page](https://g-reg26.github.io/RoboFighterPage/)
 # Keyboard Controls
 A - Move left<br/>
 D - Move right<br/>
