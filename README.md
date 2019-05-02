@@ -8,11 +8,7 @@ and cartoonish over the top gameplay.
   - Download the .zip file and extract it
   - Open extracted folder through Unity
 - If you just want to play the game:
-  - Go to: https://drive.google.com/open?id=1DTdNIuQysfwT_zeUpOZEXOoKoESesOFE
-  - Right click and download the "RoboFighter_0.1.zip" file
-  - Open "RoboFighter" application file
-  - Edit graphics and input settings to your liking
-  - And click Play!
+  - Go to: [RoboFighter Web Page]https://g-reg26.github.io/RoboFighterPage/
 # Keyboard Controls
 A - Move left<br/>
 D - Move right<br/>
